@@ -9,5 +9,5 @@ function boot() {
     : '● Startlampan är tänd';
   status.dataset.ready = 'true';
 
-// Något saknas här / Something is missing here.
+}// Något saknas här / Something is missing here.
 boot();
